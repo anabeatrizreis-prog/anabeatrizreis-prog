@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá! Sou a Ana Beatriz 👋
 
-<!--
-**anabeatrizreis-prog/anabeatrizreis-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Ana Beatriz]("C:\Users\bibif\OneDrive\Imagens\imagembia.jpeg")
 
-Here are some ideas to get you started:
+## 👩‍💻 Sobre mim 
+- ⚡ Sou estudante de TI na Escola ORT Brasil
+- 😄 Amo pintar aquarela, ler e ouvir música
+- 🌱 Estou no 1ª ano do ensino médio
+- 🔭 Estudo JavaScript, HTML, CSS, Python, APIs e SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contatos
+[Gmail](mailto:anabeatriz.reis@ort.org.br)
+[Instagram](https://www.instagram.com/beatrizpirassoli/) 
+[GitHub](https://github.com/anabeatrizreis-prog)
