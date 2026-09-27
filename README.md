@@ -1,6 +1,6 @@
 # Olá! Sou a Ana Beatriz 👋
 
-![Ana Beatriz](imagembia.jpeg)
+<img src="imagembia.jpeg" width="200">
 
 ## 👩‍💻 Sobre mim 
 - ⚡ Sou estudante de TI na Escola ORT Brasil
