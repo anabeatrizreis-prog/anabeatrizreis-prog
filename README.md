@@ -1,6 +1,6 @@
 # Olá! Sou a Ana Beatriz 👋
 
-![Ana Beatriz]("C:\Users\bibif\OneDrive\Imagens\imagembia.jpeg")
+![Ana Beatriz](imagembia.jpeg)
 
 ## 👩‍💻 Sobre mim 
 - ⚡ Sou estudante de TI na Escola ORT Brasil
